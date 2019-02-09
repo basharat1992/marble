@@ -131,7 +131,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<li><a href="services.html">Selling</a></li>
 				<li><a href="about.html">Buying</a></li>
 				<li><a href="services.html">Services</a></li>
-				<li><a href="services.html">Products</a></li>
 				<li><a href="contact.html">Contacts</a></li>
 			</ul>
 		</div>
