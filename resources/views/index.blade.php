@@ -135,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© 2012 Dream House . All Rights Reserved | Design by<a href="http://www.w3layouts.com"> W3Layouts</a></p>
+	<p>© 2012 Dream House .. All Rights Reserved | Design by<a href="http://www.w3layouts.com"> W3Layouts</a></p>
 	</div>
 	<div class="clear"></div>
 	</div>
