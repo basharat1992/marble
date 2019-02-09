@@ -22,9 +22,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="menu">
 	<ul>
     	<li><a href="#">ABOUT US</a></li>
-    	<li><a href="#">SELLING</a></li>
-    	<li><a href="#">BUYING</a></li>
-    	<li><a href="#">SERVICES</a></li>
+    	<li><a href="#">GALL</a></li>
+		<li><a href="#">PROD</a></li>
+		<li><a href="#">SERVICES</a></li>
     	<li><a href="#">CONTACTS</a></li>
     	<div class="clear"></div>
     </ul>
@@ -35,9 +35,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="header_bottom">
 <div class="side_nav">
 	<ul>
-    	<li><a href="#">SELL <p>Lorem ipsum dolor</p></a></li>
-    	<li><a href="#">BUY <p>Lorem ipsum dolor</p></a></li>
-    	<li><a href="#">WHY? <p>Lorem ipsum dolor</p></a></li>
+    	<li><a href="#">GALLERY <p>TESTING </p></a></li>
+    	<li><a href="#">PRODUCTS <p>PRODUCT TESTING</p></a></li>
+    	<li><a href="#">OTHERS <p>OTHER TESTING</p></a></li>
     </ul>
 </div>
 	<div class="header_bottom_img">
@@ -49,16 +49,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="main">
 	<div class="sidebar">
 		<div class="sidebar_top">
-			<h2>CHOOSE <span>YOUR PROPERTY</span></h2>
+			<h2>ORDER <span>ON YOUR CHOICE</span></h2>
 		</div>
 	<div class="sidebar_list">
 		<ul>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
-	    	<li><a href="#">Lorem Ipsum text</a></li>
+	    	<li><a href="#">TEST 1</a></li>
+	    	<li><a href="#">TEST 2</a></li>
+	    	<li><a href="#">TEST 3</a></li>
+	    	<li><a href="#">TEST 4</a></li>
+	    	<li><a href="#">TEST 5</a></li>
+	    	<li><a href="#">TEST 6</a></li>
 	    </ul>
 	</div>
 	<div class="side_form">
@@ -81,14 +81,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<img src="images/content_top_img.jpg" alt="" />
 		</div>
 		<div class="content_top_data">
-			<h2>WELCOME TO OUR <span>COMPANY </span></h2>
-			<h3>There are many passages of Lorem Ipsum available</h3>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+			<h2>YOUR ARE MOST WELCOME TO OUR <span>MARBLE COMPANY </span></h2>
+			<h3>Please check and choose on your option</h3>
+			<p>Hi allah what is going here?</p>
 		</div>
 	<div class="clear"></div>
 	</div>
 	<div class="content_bottom">
-		<h2>FEATURED HOMES</h2>
+		<h2>SHADE OF MARBLE</h2>
 		<div class="more">
 			<p>more <img src="images/more.png" alt="" /></p>
 		</div>
@@ -96,7 +96,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="grid1">
 				<img src="images/img_featured1.jpg" alt="" />
 				<div class="grid_top">
-					<h4>4 beds</h4>
+					<h4>SIZE</h4>
 					<h5>Price <span>$2,50,000</span></h5>
 				</div>
 			<div class="clear"></div>
@@ -127,15 +127,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="footer_nav">
 			<ul>
 				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Selling</a></li>
-				<li><a href="#">Buying</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">Contacts</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="services.html">Selling</a></li>
+				<li><a href="about.html">Buying</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="contact.html">Contacts</a></li>
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© Pak Ideal Inc. All Rights Reserved</p>
+	<p>© 2012 Dream House . All Rights Reserved | Design by<a href="http://www.w3layouts.com"> W3Layouts</a></p>
 	</div>
 	<div class="clear"></div>
 	</div>
