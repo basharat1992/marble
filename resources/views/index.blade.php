@@ -127,11 +127,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="footer_nav">
 			<ul>
 				<li><a href="#">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="services.html">Selling</a></li>
-				<li><a href="about.html">Buying</a></li>
-				<li><a href="services.html">Services</a></li>
-				<li><a href="contact.html">Contacts</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Selling</a></li>
+				<li><a href="#">Buying</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Contacts</a></li>
 			</ul>
 		</div>
 	<div class="copy_right">
