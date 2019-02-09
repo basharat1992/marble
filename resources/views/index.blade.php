@@ -23,13 +23,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<ul>
     	<li><a href="#">ABOUT US</a></li>
     	<li><a href="#">SELLING</a></li>
-<<<<<<< HEAD
-    	<li><a href="#">GALLERY</a></li>
-    	<li><a href="#">SERVICES</a></li>
-=======
     	<li><a href="#">BUYING</a></li>
-    	<li><a href="#">PRODUCT</a></li>
->>>>>>> c3d6e465717cf8f451ddbbabfff6a0e6cdbf6720
+    	<li><a href="#">SERVICES</a></li>
     	<li><a href="#">CONTACTS</a></li>
     	<div class="clear"></div>
     </ul>
