@@ -135,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© Pak Ideal Inc. All Rights Reserved.</p>
+	<p>© Pak Ideal Inc.. All Rights Reserved.</p>
 	</div>
 	<div class="clear"></div>
 	</div>
