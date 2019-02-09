@@ -21,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </div>
 <div class="menu">
 	<ul>
-    	<li><a href="#">ABOUT US</a></li>
+    	<li><a href="#">ABOUT</a></li>
     	<li><a href="#">IMAGE GALLERY</a></li>
 		<li><a href="#">PRODUCTS</a></li>
 		<li><a href="#">SERVICES</a></li>
@@ -135,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© Pak Ideal Inc.. All Rights Reserved.</p>
+	<p>© Pak Ideal Inc.. All Rights not Reserved.</p>
 	</div>
 	<div class="clear"></div>
 	</div>
