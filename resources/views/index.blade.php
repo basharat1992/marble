@@ -21,11 +21,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </div>
 <div class="menu">
 	<ul>
-    	<li><a href="about.html">ABOUT US</a></li>
-    	<li><a href="services.html">SELLING</a></li>
-    	<li><a href="about.html">BUYING</a></li>
-    	<li><a href="services.html">SERVICES</a></li>
-    	<li><a href="contact.html">CONTACTS</a></li>
+    	<li><a href="#">ABOUT US</a></li>
+    	<li><a href="#">SELLING</a></li>
+    	<li><a href="#">BUYING</a></li>
+    	<li><a href="#">SERVICES</a></li>
+    	<li><a href="#">CONTACTS</a></li>
     	<div class="clear"></div>
     </ul>
     
