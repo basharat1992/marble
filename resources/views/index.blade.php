@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Pak Ideal Marbles and Granites</title>	
+<title>Free Dream-House Website Template | Home :: w3layouts</title>	
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
 <link href='//fonts.googleapis.com/css?family=Duru+Sans' rel='stylesheet' type='text/css'>
@@ -23,8 +23,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<ul>
     	<li><a href="#">ABOUT US</a></li>
     	<li><a href="#">SELLING</a></li>
-    	<li><a href="#">BUYING</a></li>
-    	<li><a href="#">SERVICES</a></li>
     	<li><a href="#">CONTACTS</a></li>
     	<div class="clear"></div>
     </ul>
@@ -127,15 +125,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="footer_nav">
 			<ul>
 				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Selling</a></li>
-				<li><a href="#">Buying</a></li>
-				<li><a href="#">Services</a></li>
-				<li><a href="#">Contacts</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="services.html">Selling</a></li>
+				<li><a href="about.html">Buying</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="contact.html">Contacts</a></li>
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© Pak Ideal Inc. All Rights Reserved</p>
+	<p>© 2012 Dream House . All Rights Reserved | Design by<a href="http://www.w3layouts.com"> W3Layouts</a></p>
 	</div>
 	<div class="clear"></div>
 	</div>
