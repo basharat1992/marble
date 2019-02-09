@@ -17,15 +17,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="header">
 <div class="header_top">
 <div class="logo">
-<a href="#"><img src="images/logo.png" alt="" /></a>
+<a href="#"><img src="images/mountain.jpg" alt="" /></a>
 </div>
 <div class="menu">
 	<ul>
     	<li><a href="#">ABOUT US</a></li>
-    	<li><a href="#">GALL</a></li>
-		<li><a href="#">PROD</a></li>
+    	<li><a href="#">IMAGE GALLERY</a></li>
+		<li><a href="#">PRODUCTS</a></li>
 		<li><a href="#">SERVICES</a></li>
-    	<li><a href="#">CONTACTS</a></li>
+    	<li><a href="#">CONTACT US</a></li>
     	<div class="clear"></div>
     </ul>
     
@@ -41,7 +41,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </ul>
 </div>
 	<div class="header_bottom_img">
-		<img src="images/header_bottom_img.jpg" alt="" />
+		<img src="images/showroom.jpg" alt="" />
 	</div>
 <div class="clear"></div>
 </div>
