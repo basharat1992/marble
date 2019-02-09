@@ -24,7 +24,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     	<li><a href="#">ABOUT US</a></li>
     	<li><a href="#">SELLING</a></li>
     	<li><a href="#">BUYING</a></li>
-    	<li><a href="#">PRODUCTS</a></li>
+    	<li><a href="#">SERVICES</a></li>
     	<li><a href="#">CONTACTS</a></li>
     	<div class="clear"></div>
     </ul>
