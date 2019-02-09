@@ -96,25 +96,25 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="grid1">
 				<img src="images/img_featured1.jpg" alt="" />
 				<div class="grid_top">
-					<h4>SIZE</h4>
-					<h5>Price <span>$2,50,000</span></h5>
+					<h4>4 Marbles</h4>
+					<h5>Price <span>PKR 10,000</span></h5>
 				</div>
 			<div class="clear"></div>
 				<div class="grid_data">
-					<h3>Lorem Ipsum is simply dummy text</h3>
-					<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.which is the same as saying through shrinking from toil and pain. These cases are perfectly simple.</p>
+					<h3>It is a marble related website</h3>
+					<p>You can find here marbles and granites of different type</p>
 				</div>
 			</div>
 		<div class="grid2">
 		<img src="images/img_featured2.jpg" alt="" />
 		<div class="grid_top">
-		<h4>6 beds</h4>
-		<h5>Price <span>$6,50,000</span></h5>
+		<h4>6 Marbles</h4>
+		<h5>Price <span>PKR 30,000</span></h5>
 		</div>
 		<div class="clear"></div>
 		<div class="grid_data">
-		<h3>Lorem Ipsum is simply dummy text</h3>
-		<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.which is the same as saying through shrinking from toil and pain. These cases are perfectly simple. </p>
+		<h3>We can provide each type of marbles</h3>
+		<p>Each of the product we are offering have quality</p>
 		</div>
 		</div>
 		<div class="clear"></div>
@@ -135,7 +135,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</ul>
 		</div>
 	<div class="copy_right">
-	<p>© 2012 Dream House .. All Rights Reserved | Design by<a href="http://www.w3layouts.com"> W3Layouts</a></p>
+	<p>© Pak Ideal Inc.. All Rights Reserved.</p>
 	</div>
 	<div class="clear"></div>
 	</div>
