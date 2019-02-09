@@ -17,7 +17,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <div class="header">
 <div class="header_top">
 <div class="logo">
-<a href="#"><img src="images/mountain.jpg" alt="" /></a>
+<a href="#"><img src="images/mount.jpg" alt="" /></a>
 </div>
 <div class="menu">
 	<ul>
